@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:day/:title
+author :
+  name : Procsynth
+  email : nil
+  github : procsynth
+  twitter : procsynth
+  feedburner : nil
+production_url : https://procsynth.github.io/
